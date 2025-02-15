@@ -20,7 +20,7 @@ This is a simple flashcard application built using Python and Tkinter. It allows
 ## How to Use
 
 1. **Ensure Folders**: Before running the executable file, make sure that the `data` folder and `images` folder are located in the same directory as the executable.
-2. **Download and Run the App**: [Download Flash Card App](https://drive.google.com/file/d/1i6DQUVALRu-rHBPloqCy5fgDZqR6jAQJ/view?usp=drive_link) and run it. The flashcard app window will appear.
+2. **Download and Run the App**: Download Flash Card App and run it. The flashcard app window will appear.
 3. **View Flashcards**: Each flashcard will display a word in one language. Try to recall its translation in the other language.
 4. **Flip the Card**: Click on the flashcard to flip it and reveal the translation.
 5. **Indicate Knowledge**: Click the "Right" button if you knew the translation, or the "Wrong" button if you didn't.
